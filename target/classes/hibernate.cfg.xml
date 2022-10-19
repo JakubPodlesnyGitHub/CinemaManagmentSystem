@@ -46,6 +46,7 @@
         <mapping class="Model.Booking"/>
         <mapping class="Model.Ticket"/>
         <mapping class="Model.CinemaScrenning"/>
+        <mapping class="Model.Group"/>
     </session-factory>
 
 </hibernate-configuration>
